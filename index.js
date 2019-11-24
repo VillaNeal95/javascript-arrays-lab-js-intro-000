@@ -17,5 +17,5 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten() {
-  return [...Kittens, name]
+  return [...Kittens, 'Milo']
 }
